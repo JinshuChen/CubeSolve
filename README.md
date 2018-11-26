@@ -9,6 +9,6 @@ Click and have fun!
 
 v1.0_Release
 ---------------------------------------------------  
-Add more textures into the project;
-Mix some foolish bugs.
-v1.1 is coming soon!
+Add more textures into the project;  
+Mix some foolish bugs.  
+v1.1 is coming soon!  
